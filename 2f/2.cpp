@@ -17,7 +17,6 @@ static string ArmarFecha(int dia, int mes, int anio){
     string year = to_string(anio);
     fecha =day+"/"+month+"/"+year;
     return fecha;
-
 }
 
 int main()
